@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Manifest",
+  "base_artist": "Takanashi Kiara",
+  "createdAt": "2026-02-13T02:18:27.190545Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Manifest/Outro",
+      "artist": "Fugees feat. Ms. Lauryn Hill, Wyclef Jean & Pras",
+      "has_synced": true,
+      "path": "select/01_Manifest_Outro_Fugees_feat._Ms._Lauryn_Hill,_Wyclef_Jean_&_Pras.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Manifest\u0000Outro",
+      "artist": "Fugees (Refugee Camp)",
+      "has_synced": true,
+      "path": "select/02_Manifest\u0000Outro_Fugees_(Refugee_Camp).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Manifest Destiny",
+      "artist": "Zola Jesus",
+      "has_synced": true,
+      "path": "select/03_Manifest_Destiny_Zola_Jesus.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Manifest Destiny",
+      "artist": "Jamiroquai",
+      "has_synced": true,
+      "path": "select/04_Manifest_Destiny_Jamiroquai.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Manifest / Outro",
+      "artist": "Fugees",
+      "has_synced": true,
+      "path": "select/05_Manifest___Outro_Fugees.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Manifest",
+      "artist": "Sepultura",
+      "has_synced": true,
+      "path": "select/06_Manifest_Sepultura.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Manifest",
+      "artist": "Sepultura",
+      "has_synced": true,
+      "path": "select/07_Manifest_Sepultura.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Synergize - Manic Manifest -",
+      "artist": "Epica",
+      "has_synced": false,
+      "path": "select/08_Synergize_-_Manic_Manifest_-_Epica.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Synergize - Manic Manifest",
+      "artist": "Epica",
+      "has_synced": false,
+      "path": "select/09_Synergize_-_Manic_Manifest_Epica.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Manifest Destiny",
+      "artist": "D.R.I.",
+      "has_synced": true,
+      "path": "select/10_Manifest_Destiny_D.R.I..lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Synergize - Manic Manifest -",
+      "artist": "Epica",
+      "has_synced": false,
+      "path": "select/11_Synergize_-_Manic_Manifest_-_Epica.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Synergize - Manic Manifest - (Instrumental Version)",
+      "artist": "Epica",
+      "has_synced": false,
+      "path": "select/12_Synergize_-_Manic_Manifest_-_(Instrumental_Version)_Epica.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Synergize - Manic Manifest - (Orchestral Version)",
+      "artist": "Epica",
+      "has_synced": false,
+      "path": "select/13_Synergize_-_Manic_Manifest_-_(Orchestral_Version)_Epica.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Manifest",
+      "artist": "Andrew Bird",
+      "has_synced": true,
+      "path": "select/14_Manifest_Andrew_Bird.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "THE MANIFEST",
+      "artist": "Luciferion",
+      "has_synced": false,
+      "path": "select/15_THE_MANIFEST_Luciferion.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Manifest",
+      "artist": "STARSET",
+      "has_synced": true,
+      "path": "select/16_Manifest_STARSET.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Manifest/Outro",
+      "artist": "Fugees",
+      "has_synced": true,
+      "path": "select/17_Manifest_Outro_Fugees.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Synergize – Manic Manifest",
+      "artist": "Epica",
+      "has_synced": false,
+      "path": "select/18_Synergize_–_Manic_Manifest_Epica.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Manifest",
+      "artist": "Takanashi Kiara",
+      "has_synced": false,
+      "path": "select/pl_01_Manifest_Takanashi_Kiara.txt"
+    }
+  ]
+}
