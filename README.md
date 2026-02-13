@@ -1,0 +1,67 @@
+# Takanashi Kiara – Manifest
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Oh, you
+I’ve heard the things that ya think
+More like I guessed cause I’ve been there
+I can see it on your face
+You need to recreate
+So what’s your vision? Watcha living for?
+Yeah
+Ooh
+Open up every door in your heart you slammed
+shut
+Ooh
+Then you’ll feel the spark
+Fan the flames
+Ignite even in dark
+No ones gonna catch you
+You’re falling and so bruised
+It’s up to you, so go choose
+If you’ll keep on crawling, darling
+All that it takes is this
+(Listen up now)
+Live, let live and start again it’s
+Up to you not destiny
+Scrape your knees and when you bleed
+Know pain means your alive and free
+World is turning, you can’t sleep
+Breathing’s not always easy
+I know you’re not fine
+Life’s a mess, I relate
+Beauty mixed with pain
+So, won’t you stay? Yeah
+Don’t let me down
+Don’t let me down
+Don’t need perfect, the world keeps turning
+Don’t let you down
+Don’t let you down
+When you fall those scars are worth it
+No ones gonna catch you
+You’re falling and so bruised
+It’s up to you, so go choose
+If you’ll keep on crawling, darling
+All that it takes is this
+(Listen up now)
+Live, let live and start again it’s
+Up to you not destiny
+Scrape your knees and when you bleed
+Know pain means your alive and free
+You’re the key key key
+To your reality
+(live, let live and start again, yeah)
+You can be be be
+Just who you wanna be
+(Manifesting every dream)
+You’re a dream come true
+Know that nothing, no one else can compare to
+you
+You’re the match and fuse, so light it up, make
+a new you
+Live, let live and start again it’s
+Up to you not destiny
+Scrape your knees and when you bleed
+Know pain means your alive and free
+```
